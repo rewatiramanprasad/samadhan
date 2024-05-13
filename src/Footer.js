@@ -25,7 +25,7 @@ function Footer() {
                         <p>Mechanics</p>
                         <p>Painter</p>
                         <p>Plumber</p>
-                        <p>carpanter</p>
+                        <p>Carpenter</p>
                         <p>Builder</p>
                         <p>Daily wages Worker</p>
                         

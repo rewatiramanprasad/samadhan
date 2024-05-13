@@ -38,7 +38,7 @@ function Header_inner(props) {
             </style>
             <div className="header__left">
 
-                <h1 className="header__logo mx-auto">SAmAdhAn</h1>
+                <h1 className="header__logo mx-auto">Samadhan</h1>
 
                 {/* <h4>How It Works</h4>
                 <h4>Browse Jobs</h4> */}
